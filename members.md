@@ -1,5 +1,5 @@
 ---
-title: Members
+title: Administrative Members
 layout: members
 excerpt: "Member index"
 aside: false
@@ -38,7 +38,6 @@ MD. Saifur Rahman is currently working as an Assistant Professor at the Departme
 Dr. Mridha is currently working as an associate professor in the Department of Computer Science and Engineering of the Bangladesh University of Business and Technology. He also worked as a faculty member of the CSE department at the University of Asia Pacific and as a graduate co-ordinator from 2012 to 2019. He received his Ph.D. in AI/ML from Jahangirnagar University (JU) in the year 2017. He joined as a Lecturer at the Department of Computer Science and Engineering, Stamford University Bangladesh in June 2007. He was promoted as a Senior Lecturer at the same department in October 2010 and also promoted as an assistant professor at the same department in October 2011. Then he joined UAP in May 2012 as an Assistant Professor. His research experience, within both academia and industry, results over 80 Journal and Conference publications. His research interests include Artificial Intelligence (AI), Machine learning, Deep learning and Natural Language Processing (NLP). For more than 10 (Ten) years, he is working with the masters and undergraduate students as a supervisor of their thesis work. His research interest includes include Artificial Intelligence (AI), Machine learning, Natural Language Processing (NLP), Big Data analysis etc. He has served as a program committee member in several international conferences/workshops. He served as an Associate Editor of several journals.
 </div>
 
-
 ### Members
 ###### Md. Abu Quwsar Ohi
 
@@ -48,3 +47,18 @@ Dr. Mridha is currently working as an associate professor in the Department of C
 <div style="text-align: justify;">
 Abu Quwsar Ohi is a computer science graduate and currently working as a lecturer and research assistant at Bangladesh University of Business and Technology in the Department of Computer Science and Engineering (BUBT). His research focuses on deep learning algorithms, pattern recognition, computer vision, and reinforcement learning. He has multiple publications in a short period and received an annual publication award for his first year of research work (2020). Moreover, he is proficient in prominent frameworks, including TensorFlow, Keras, NumPy, Matplotlib, etc. Apart from his research works, he is a Competitive Programmer and has attained more than 10 Bangladeshi national programming contests, including National Collegiate Programming Contest (NCPC) and International Collegiate Programming Contest (ICPC). He is passionate about learning fundamental algorithms, including data structures, dynamic programming, and game theory. He has experience working in famous languages, including Python and C++.
 </div>
+
+<!--
+<div class="row">
+	<div class="column">
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+	</div>
+	<div class="column">
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+		<figure><img src="/assets/images/members/ohi.jpg" width="40" height="80"></figure>
+	</div>
+</div>
+-->
