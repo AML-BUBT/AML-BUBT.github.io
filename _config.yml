@@ -149,8 +149,8 @@ navigation_header:
   url: /pubs/
 
 navigation_footer:
-- title: Quwsar Ohi
-  url: https://quwsarohi.github.io/
+- title: Bangladesh University of Business and Technology
+  url: https://bubt.edu.bd
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
